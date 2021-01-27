@@ -1,0 +1,2 @@
+merge file from branch4 
+>>>>>>> branch4
